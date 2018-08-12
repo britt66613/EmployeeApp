@@ -1,0 +1,27 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.deps.json
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.pdb
+D:\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.deps.json
+D:\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.dll
+D:\TestApplication\TA.Entities\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csproj.CoreCompileInputs.cache
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfoInputs.cache
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.AssemblyInfo.cs
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.dll
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.pdb
+D:\TestApplication\TA.Entities\obj\Debug\netcoreapp2.1\TA.Entities.csprojResolveAssemblyReference.cache

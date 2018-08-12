@@ -1,0 +1,13 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\TA.DataAccess.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\TA.DataAccess.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\TA.DataAccess.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.DataAccess\obj\Debug\netcoreapp2.0\TA.DataAccess.pdb

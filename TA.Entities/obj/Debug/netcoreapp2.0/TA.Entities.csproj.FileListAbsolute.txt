@@ -1,0 +1,9 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.0\TA.Entities.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.0\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\bin\Debug\netcoreapp2.0\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Entities\obj\Debug\netcoreapp2.0\TA.Entities.pdb

@@ -1,0 +1,39 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.deps.json
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.dll
+C:\Users\Pavel Leevchenko\Desktop\TestApp-master\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.pdb
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.deps.json
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.dll
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Services.pdb
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.dll
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.dll
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.DataAccess.pdb
+D:\TestApplication\TA.Services\bin\Debug\netcoreapp2.1\TA.Entities.pdb
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csprojResolveAssemblyReference.cache
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.csproj.CoreCompileInputs.cache
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfoInputs.cache
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.AssemblyInfo.cs
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.dll
+D:\TestApplication\TA.Services\obj\Debug\netcoreapp2.1\TA.Services.pdb

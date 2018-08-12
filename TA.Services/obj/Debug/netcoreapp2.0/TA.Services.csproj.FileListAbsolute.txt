@@ -1,0 +1,8 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.0\TA.Services.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.0\TA.Services.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\bin\Debug\netcoreapp2.0\TA.Services.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.0\TA.Services.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.0\TA.Services.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.0\TA.Services.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.0\TA.Services.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.Services\obj\Debug\netcoreapp2.0\TA.Services.pdb

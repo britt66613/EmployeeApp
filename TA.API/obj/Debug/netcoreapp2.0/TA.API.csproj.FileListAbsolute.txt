@@ -1,0 +1,15 @@
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.API.deps.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.API.runtimeconfig.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.API.runtimeconfig.dev.json
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.API.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.API.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.DataAccess.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.Entities.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.DataAccess.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\bin\Debug\netcoreapp2.0\TA.Entities.pdb
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.AssemblyInfoInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.AssemblyInfo.cs
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.dll
+C:\Users\Pavel Leevchenko\source\repos\TestApplication\TA.API\obj\Debug\netcoreapp2.0\TA.API.pdb
