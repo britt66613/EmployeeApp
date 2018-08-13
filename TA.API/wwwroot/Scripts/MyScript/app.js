@@ -26,7 +26,8 @@ TestApp.config(function ($routeProvider, $locationProvider) {
 	
 TestApp.controller('testController', function ($scope, $rootScope, $http, $route  ) {
     $scope.loading = false;
-    $scope.filterModel = {name:'', position:''};
+    $scope.filterModel = { name: '', position: '' };
+    $scope.employees = [];
     	
     $scope.applyFilter = function () {
         $scope.filterModel = this.filterModel;
@@ -80,7 +81,6 @@ TestApp.controller('testController', function ($scope, $rootScope, $http, $route
             url: 'http://localhost:50884/api/Employee/GetByKey',
             data: { Id: id }
         }).then(function (response) {
-            console.log(response.data);
             $scope.sendEmp(response.data);
         })
 	}
@@ -116,20 +116,8 @@ TestApp.controller('testController', function ($scope, $rootScope, $http, $route
     $scope.getData();
 });
 
-TestApp.controller('addEmpCtrl', function($scope, $http) {
-	$scope.saveEmp = function ($scope) {
-            //if (!angular.isDefined($scope.employee.name) || $scope.employee.name === '') {
-            //    alert('employee name is empty');
-            //    return;
-            //}
-            //else if (!angular.isDefined($scope.employee.age) || $scope.employee.age === '') {
-            //    alert('employee age is empty');
-            //    return;
-            //} else if (!angular.isDefined($scope.position) || $scope.employee.position === '') {
-            //    alert('employee position is empty');
-            //    return;
-            //} else {
-            			
+TestApp.controller('addEmpCtrl', function ($scope, $http, $rootScope) {
+    $scope.saveEmp = function ($scope) {
         $http({
             method: 'POST',
             url: 'http://localhost:50884/api/Employee/AddEmployee',
@@ -138,32 +126,12 @@ TestApp.controller('addEmpCtrl', function($scope, $http) {
                 age: this.age,
                 position: this.position,
             }
-        }).then(function (response) {
-            $scope.sendEmp(employee);
-            })
-
-        $scope.sendEmp = function (data) {
-            $rootScope.$broadcast('AddNewEmployee', { employee: { name: this.name, age: this.age, position: this.position } });
-        }
-    };		
+        })
+    }
 });
 
 TestApp.controller('updateEmpCtrl', function($scope, $http, $rootScope) {
-
     $scope.updateEmp = function (employee) {
-        console.log(employee);
-		if(!angular.isDefined($scope.employee.name) || $scope.employee.name === '') {
-                alert('employee name is empty');
-                return;
-            }
-            else if(!angular.isDefined($scope.employee.age) || $scope.employee.age === '') {
-                alert('employee age is empty');
-                return;
-        } else if (!angular.isDefined($scope.employee.position) || $scope.employee.position === '') {
-            alert('employee position is empty');
-                return;
-              }
-
         $http({
             method: 'PUT',
             url: 'http://localhost:50884/api/Employee/UpdateEmployee',
@@ -173,16 +141,10 @@ TestApp.controller('updateEmpCtrl', function($scope, $http, $rootScope) {
                 age: employee.age,
                 position: employee.position
             }
-        }).then(function (response) {
-            $scope.sendEmp(employee);
-        })        
-    }
+        })
+    };
 
     $scope.$on('EmployeeUpdate', function (event, args) {
         $scope.employee = args.employee;
-    })
-
-    $scope.sendEmp = function (data) {
-        $rootScope.$broadcast('EmployeeUpdateResult', { employee: data });
-    }
+    });
 });
