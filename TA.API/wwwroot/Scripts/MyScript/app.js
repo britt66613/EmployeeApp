@@ -28,7 +28,11 @@ TestApp.controller('testController', function ($scope, $rootScope, $http, $route
     $scope.loading = false;
     $scope.filterModel = { name: '', position: '' };
     $scope.employees = [];
-    	
+
+    $scope.reloadData = function () {
+        $route.reload();
+    }
+
     $scope.applyFilter = function () {
         $scope.filterModel = this.filterModel;
         $scope.loading = true;
@@ -110,7 +114,7 @@ TestApp.controller('testController', function ($scope, $rootScope, $http, $route
     })
 
     $scope.$on('AddNewEmployee', function (event, args) {
-        $scope.employees.push(args.employee);
+        $scope.reloadData();
     })
 
     $scope.getData();
@@ -125,8 +129,12 @@ TestApp.controller('addEmpCtrl', function ($scope, $http, $rootScope) {
                 name: this.name,
                 age: this.age,
                 position: this.position,
-            }
-        })
+            }                
+        }).then(function (response) {
+            $rootScope.$broadcast('AddNewEmployee', {});
+            });
+
+        
     }
 });
 
@@ -139,7 +147,8 @@ TestApp.controller('updateEmpCtrl', function($scope, $http, $rootScope) {
                 id: employee.id,
                 name: employee.name,
                 age: employee.age,
-                position: employee.position
+                position: employee.position,
+                startTime: employee.startTime
             }
         })
     };

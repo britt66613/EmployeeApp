@@ -5,6 +5,8 @@
             <i class="glyphicon glyphicon-plus">
             </i> Add New Employee
         </a>
+        <br /><br />
+        <button ng-click="reloadData()" class="btn btn-success">RELOAD TABLE</button>
     </div>
 
     <table st-table="display_records" st-safe-src="employees" class="table table-striped">
@@ -57,9 +59,10 @@
     </table>
     <form class="form-horizontal" role="form" ng-submit="applyFilter()">
         <div>
-            <div style="display:flex;">Name:<input class="input-sm form-control" type="search" style="width:100px" ng-model="filterModel.name"/></div><br />
-            <div style="display:flex;">Position:<input class="input-sm form-control" type="search" style="width:100px" ng-model="filterModel.position"/></div><br />
+            <div style="display:flex;">Name:<input class="input-sm form-control" type="search" style="width:100px" ng-model="filterModel.name" /></div><br />
+            <div style="display:flex;">Position:<input class="input-sm form-control" type="search" style="width:100px" ng-model="filterModel.position" /></div><br />
             <input type="submit" value="Apply filter" class="btn btn-success" />
-        </div>        
+        </div>
     </form>
+
 </div>
